@@ -1,0 +1,193 @@
+[
+    {
+        "event": {
+            "event_id": "260995705",
+            "event_name": "\u0648\u062f\u0627\u0639\u0627 \u0644\u0644\u062a\u0639\u0644\u064a\u0645 \u0627\u0644\u062a\u0642\u0644\u064a\u062f\u064a ..",
+            "event_url": "https://www.meetup.com/DataGeeks/events/260995705/",
+            "time": 1556722800000
+        },
+        "group": {
+            "group_city": "Riyadh",
+            "group_country": "sa",
+            "group_id": 19882280,
+            "group_lat": 24.65,
+            "group_lon": 46.77,
+            "group_name": "Riyadh Data Geeks",
+            "group_topics": [
+                {
+                    "topic_name": "Open Source",
+                    "urlkey": "opensource"
+                },
+                {
+                    "topic_name": "Database Professionals",
+                    "urlkey": "databasepro"
+                },
+                {
+                    "topic_name": "Data Management",
+                    "urlkey": "datamanagement"
+                },
+                {
+                    "topic_name": "Business Intelligence",
+                    "urlkey": "businessintell"
+                },
+                {
+                    "topic_name": "Hadoop",
+                    "urlkey": "hadoop"
+                },
+                {
+                    "topic_name": "Big Data",
+                    "urlkey": "big-data"
+                },
+                {
+                    "topic_name": "Machine Learning",
+                    "urlkey": "machine-learning"
+                },
+                {
+                    "topic_name": "Data Analytics",
+                    "urlkey": "data-analytics"
+                },
+                {
+                    "topic_name": "Data Visualization",
+                    "urlkey": "data-visualization"
+                },
+                {
+                    "topic_name": "Predictive Analytics",
+                    "urlkey": "predictive-analytics"
+                },
+                {
+                    "topic_name": "Data Mining",
+                    "urlkey": "data-mining"
+                },
+                {
+                    "topic_name": "Open Data",
+                    "urlkey": "open-data"
+                },
+                {
+                    "topic_name": "Business Analytics",
+                    "urlkey": "business-analytics"
+                },
+                {
+                    "topic_name": "Data Science",
+                    "urlkey": "data-science"
+                },
+                {
+                    "topic_name": "Big Data Analytics",
+                    "urlkey": "big-data-analytics"
+                }
+            ],
+            "group_urlname": "DataGeeks"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 270941717,
+            "member_name": "nawaf alotaibi",
+            "photo": "https://secure.meetupstatic.com/photos/member/a/9/8/e/thumb_283663406.jpeg"
+        },
+        "mtime": 1556480052881,
+        "response": "yes",
+        "rsvp_id": 1784112620,
+        "venue": {
+            "lat": 24.738556,
+            "lon": 46.639942,
+            "venue_id": 26289826,
+            "venue_name": "Ministry of Communication and IT - New Building"
+        },
+        "visibility": "public"
+    },
+    {
+        "event": {
+            "event_id": "260765115",
+            "event_name": "Sketch the Brooklyn Botanic Garden!",
+            "event_url": "https://www.meetup.com/sketching/events/260765115/",
+            "time": 1558278000000
+        },
+        "group": {
+            "group_city": "New York",
+            "group_country": "us",
+            "group_id": 424879,
+            "group_lat": 40.72,
+            "group_lon": -73.98,
+            "group_name": "Central Park Sketching & Art Meetup Group",
+            "group_state": "NY",
+            "group_topics": [
+                {
+                    "topic_name": "Outdoors",
+                    "urlkey": "outdoors"
+                },
+                {
+                    "topic_name": "Landscape Painting",
+                    "urlkey": "landscape-painting"
+                },
+                {
+                    "topic_name": "Drawing",
+                    "urlkey": "draw"
+                },
+                {
+                    "topic_name": "Artists",
+                    "urlkey": "boston-artists"
+                },
+                {
+                    "topic_name": "Arts & Entertainment",
+                    "urlkey": "arts"
+                },
+                {
+                    "topic_name": "The Artist's Way",
+                    "urlkey": "artistsway"
+                },
+                {
+                    "topic_name": "Art Modeling",
+                    "urlkey": "artmodeling"
+                },
+                {
+                    "topic_name": "Life Drawing",
+                    "urlkey": "life-drawing"
+                },
+                {
+                    "topic_name": "Art",
+                    "urlkey": "art"
+                },
+                {
+                    "topic_name": "Art History",
+                    "urlkey": "arthistory"
+                },
+                {
+                    "topic_name": "Museum",
+                    "urlkey": "museum"
+                },
+                {
+                    "topic_name": "Figure Drawing",
+                    "urlkey": "figuredrawing"
+                },
+                {
+                    "topic_name": "Park",
+                    "urlkey": "park"
+                },
+                {
+                    "topic_name": "Sketching",
+                    "urlkey": "sketching"
+                },
+                {
+                    "topic_name": "Painting",
+                    "urlkey": "painting"
+                }
+            ],
+            "group_urlname": "sketching"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 11377115,
+            "member_name": "Stephanie C",
+            "photo": "https://secure.meetupstatic.com/photos/member/5/6/6/thumb_11881382.jpeg"
+        },
+        "mtime": 1556480052000,
+        "response": "yes",
+        "rsvp_id": 1784112618,
+        "venue": {
+            "lat": 40.67057,
+            "lon": -73.95655,
+            "venue_id": 594541,
+            "venue_name": "Brooklyn Botanical Garden"
+        },
+        "visibility": "public"
+    }
+]

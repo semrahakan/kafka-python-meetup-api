@@ -1,0 +1,177 @@
+[
+    {
+        "event": {
+            "event_id": "ghlxvqyzjbnc",
+            "event_name": "M\u00e9ditation Ancestrale",
+            "event_url": "https://www.meetup.com/Corps-et-ame/events/260988834/",
+            "time": 1561910400000
+        },
+        "group": {
+            "group_city": "Gen\u00e8ve",
+            "group_country": "ch",
+            "group_id": 23651813,
+            "group_lat": 46.21,
+            "group_lon": 6.14,
+            "group_name": "Pour le corps,  le coeur et l'\u00e2me",
+            "group_topics": [
+                {
+                    "topic_name": "Meditation",
+                    "urlkey": "meditation"
+                },
+                {
+                    "topic_name": "Self-Improvement",
+                    "urlkey": "self-improvement"
+                },
+                {
+                    "topic_name": "Consciousness",
+                    "urlkey": "consciousness"
+                },
+                {
+                    "topic_name": "Spirituality",
+                    "urlkey": "spirituality"
+                },
+                {
+                    "topic_name": "Wellness",
+                    "urlkey": "wellness"
+                },
+                {
+                    "topic_name": "Science and Spirituality",
+                    "urlkey": "science-and-spirituality"
+                },
+                {
+                    "topic_name": "Holistic Health",
+                    "urlkey": "holistic-health"
+                },
+                {
+                    "topic_name": "Energy Healing",
+                    "urlkey": "energy-healing"
+                },
+                {
+                    "topic_name": "Stress Relief",
+                    "urlkey": "stress-relief"
+                },
+                {
+                    "topic_name": "Alternative Medicine",
+                    "urlkey": "alternative-medicine"
+                },
+                {
+                    "topic_name": "Spiritual Growth",
+                    "urlkey": "spiritual-growth"
+                },
+                {
+                    "topic_name": "Centers for Spiritual Living",
+                    "urlkey": "centers-for-spiritual-living"
+                },
+                {
+                    "topic_name": "Healthy Living",
+                    "urlkey": "healthy-living"
+                },
+                {
+                    "topic_name": "Self Exploration",
+                    "urlkey": "self-exploration"
+                },
+                {
+                    "topic_name": "Mental and Emotional Wellnes",
+                    "urlkey": "mental-and-emotional-wellnes"
+                }
+            ],
+            "group_urlname": "Corps-et-ame"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 229231599,
+            "member_name": "Gaston",
+            "photo": "https://secure.meetupstatic.com/photos/member/8/f/1/4/thumb_287436628.jpeg"
+        },
+        "mtime": 1556457900307,
+        "response": "yes",
+        "rsvp_id": 1784063715,
+        "venue": {
+            "lat": 46.202484,
+            "lon": 6.130823,
+            "venue_id": 25680736,
+            "venue_name": "Espace Sant\u00e9 Bien-\u00eatre des Saules, 2e \u00e9tage"
+        },
+        "visibility": "public"
+    },
+    {
+        "event": {
+            "event_id": "dbmppqyzhbdb",
+            "event_name": "Competitive Intermediate 3.0-3.5 Pickleball",
+            "event_url": "https://www.meetup.com/Marlton-Fieldhouse-Pickleball-Meetup/events/260814389/",
+            "time": 1556802000000
+        },
+        "group": {
+            "group_city": "Marlton",
+            "group_country": "us",
+            "group_id": 19253762,
+            "group_lat": 39.89,
+            "group_lon": -74.91,
+            "group_name": "Marlton Pickleball Meetups",
+            "group_state": "NJ",
+            "group_topics": [
+                {
+                    "topic_name": "Fitness",
+                    "urlkey": "fitness"
+                },
+                {
+                    "topic_name": "Exercise",
+                    "urlkey": "excercise"
+                },
+                {
+                    "topic_name": "Playing Pickleball",
+                    "urlkey": "playing-pickleball"
+                },
+                {
+                    "topic_name": "Pickle Ball",
+                    "urlkey": "pickle-ball"
+                },
+                {
+                    "topic_name": "Recreational Sports",
+                    "urlkey": "recreational-sports"
+                },
+                {
+                    "topic_name": "Ping Pong",
+                    "urlkey": "pingpong"
+                },
+                {
+                    "topic_name": "PLAYNG PICKLEBALL",
+                    "urlkey": "playng-pickleball"
+                },
+                {
+                    "topic_name": "Pickleball",
+                    "urlkey": "pickleball"
+                },
+                {
+                    "topic_name": "Pickleball Tournaments",
+                    "urlkey": "pickleball-tournaments"
+                },
+                {
+                    "topic_name": "Pickleball Clinics",
+                    "urlkey": "pickleball-clinics"
+                },
+                {
+                    "topic_name": "Indoor Pickleball",
+                    "urlkey": "indoor-pickleball"
+                }
+            ],
+            "group_urlname": "Marlton-Fieldhouse-Pickleball-Meetup"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 222727815,
+            "member_name": "Tracey Foster",
+            "photo": "https://secure.meetupstatic.com/photos/member/2/f/7/2/thumb_264612146.jpeg"
+        },
+        "mtime": 1556457901012,
+        "response": "yes",
+        "rsvp_id": 1784063717,
+        "venue": {
+            "lat": 39.88456,
+            "lon": -74.882942,
+            "venue_id": 24058075,
+            "venue_name": "Marlton Field House"
+        },
+        "visibility": "public"
+    }
+]

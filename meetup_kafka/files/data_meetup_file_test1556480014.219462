@@ -1,0 +1,175 @@
+[
+    {
+        "event": {
+            "event_id": "260290931",
+            "event_name": "ScrumWarsaw Meetup #4",
+            "event_url": "https://www.meetup.com/ScrumWarsaw/events/260290931/",
+            "time": 1557248400000
+        },
+        "group": {
+            "group_city": "Warsaw",
+            "group_country": "pl",
+            "group_id": 30928546,
+            "group_lat": 52.26,
+            "group_lon": 21.02,
+            "group_name": "Scrum Warsaw",
+            "group_topics": [
+                {
+                    "topic_name": "Software Development",
+                    "urlkey": "softwaredev"
+                },
+                {
+                    "topic_name": "Scrum",
+                    "urlkey": "scrum"
+                },
+                {
+                    "topic_name": "Agile Project Management",
+                    "urlkey": "agile-project-management"
+                },
+                {
+                    "topic_name": "Lean Startup",
+                    "urlkey": "lean-startup"
+                },
+                {
+                    "topic_name": "Agile Coaching",
+                    "urlkey": "agile-coaching"
+                },
+                {
+                    "topic_name": "Scrum in real world",
+                    "urlkey": "scrum-in-real-world"
+                },
+                {
+                    "topic_name": "Agile Leadership",
+                    "urlkey": "agile-leadership"
+                },
+                {
+                    "topic_name": "Agile Transformation",
+                    "urlkey": "agile-transformation"
+                },
+                {
+                    "topic_name": "Scaling Agile",
+                    "urlkey": "scaling-agile"
+                },
+                {
+                    "topic_name": "Agile and Scrum",
+                    "urlkey": "agile-and-scrum"
+                },
+                {
+                    "topic_name": "Large Scale Scrum",
+                    "urlkey": "large-scale-scrum"
+                }
+            ],
+            "group_urlname": "ScrumWarsaw"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 278703817,
+            "member_name": "MikeO"
+        },
+        "mtime": 1556480014360,
+        "response": "yes",
+        "rsvp_id": 1784112526,
+        "venue": {
+            "lat": 52.22641,
+            "lon": 21.000546,
+            "venue_id": 26105897,
+            "venue_name": "Nowogrodzka 62c"
+        },
+        "visibility": "public"
+    },
+    {
+        "event": {
+            "event_id": "260888240",
+            "event_name": "May Meetup at Microsoft",
+            "event_url": "https://www.meetup.com/DevOpsAmsterdam/events/260888240/",
+            "time": 1558020600000
+        },
+        "group": {
+            "group_city": "Amsterdam",
+            "group_country": "nl",
+            "group_id": 4028802,
+            "group_lat": 52.37,
+            "group_lon": 4.89,
+            "group_name": "DevOps Amsterdam",
+            "group_topics": [
+                {
+                    "topic_name": "High Scalability Computing",
+                    "urlkey": "high-scalability-computing"
+                },
+                {
+                    "topic_name": "System Administration",
+                    "urlkey": "sysadmin"
+                },
+                {
+                    "topic_name": "Infrastructure as Code",
+                    "urlkey": "infrastructure-as-code"
+                },
+                {
+                    "topic_name": "Continuous Integration",
+                    "urlkey": "continuous-integration"
+                },
+                {
+                    "topic_name": "DevOps",
+                    "urlkey": "devops"
+                },
+                {
+                    "topic_name": "Open Source",
+                    "urlkey": "opensource"
+                },
+                {
+                    "topic_name": "Data Center and Operations Automation",
+                    "urlkey": "data-center-and-operations-automation"
+                },
+                {
+                    "topic_name": "Cloud Computing",
+                    "urlkey": "cloud-computing"
+                },
+                {
+                    "topic_name": "Docker",
+                    "urlkey": "docker"
+                },
+                {
+                    "topic_name": "Docker Kubernetes",
+                    "urlkey": "docker-kubernetes"
+                },
+                {
+                    "topic_name": "IT Professionals",
+                    "urlkey": "it-professionals"
+                },
+                {
+                    "topic_name": "Configuration Management",
+                    "urlkey": "configuration-management"
+                },
+                {
+                    "topic_name": "Kubernetes",
+                    "urlkey": "kubernetes"
+                },
+                {
+                    "topic_name": "Serverless",
+                    "urlkey": "serverless"
+                },
+                {
+                    "topic_name": "Microservices",
+                    "urlkey": "microservices"
+                }
+            ],
+            "group_urlname": "DevOpsAmsterdam"
+        },
+        "guests": 0,
+        "member": {
+            "member_id": 242909147,
+            "member_name": "Marina Stepina",
+            "photo": "https://secure.meetupstatic.com/photos/member/7/f/5/1/thumb_278132593.jpeg"
+        },
+        "mtime": 1556480014800,
+        "response": "yes",
+        "rsvp_id": 1784112527,
+        "venue": {
+            "lat": 52.303772,
+            "lon": 4.750176,
+            "venue_id": 26072250,
+            "venue_name": "Microsoft Nederland"
+        },
+        "visibility": "public"
+    }
+]
